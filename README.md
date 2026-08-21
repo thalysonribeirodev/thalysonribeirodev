@@ -213,13 +213,15 @@ Meus repositórios são onde transformo o que estou aprendendo em **projetos pr�
 
 </p>
 
-<p align="center">
+<br>
+
+<div align="center">
 
 <a href="https://github.com/thalysonribeirodev?tab=repositories">
 <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-00E5FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
 </a>
 
-</p>
+</div>
 
 # 🎯 Current Goals
 
