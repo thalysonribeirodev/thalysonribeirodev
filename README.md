@@ -201,14 +201,16 @@ Meus repositórios são onde transformo o que estou aprendendo em **projetos pr�
 
 ### Featured Projects
 
+### Featured Projects
+
 <p align="center">
 
 <a href="https://github.com/thalysonribeirodev/SiteCabeleireiro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=thalysonribeirodev&repo=SiteCabeleireiro&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF&bg_color=0D1117" />
+<img src="https://github-stats-extended-frontend-xc84.vercel.app/api/pin/?username=thalysonribeirodev&repo=SiteCabeleireiro" />
 </a>
 
 <a href="https://github.com/thalysonribeirodev/xuxubeleza">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=thalysonribeirodev&repo=xuxubeleza&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF&bg_color=0D1117" />
+<img src="https://github-stats-extended-frontend-xc84.vercel.app/api/pin/?username=thalysonribeirodev&repo=xuxubeleza" />
 </a>
 
 </p>
