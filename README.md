@@ -202,33 +202,16 @@ Meus repositórios são onde transformo o que estou aprendendo em **projetos pr�
 ### Featured Projects
 
 <p align="center">
-  <a href="https://github.com/thalysonribeirodev/SiteCabeleireiro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thalysonribeirodev&repo=SiteCabeleireiro&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF&bg_color=0D1117" />
-  </a>
 
-  <a href="https://github.com/thalysonribeirodev/xuxubeleza">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thalysonribeirodev&repo=xuxubeleza&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF&bg_color=0D1117" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/thalysonribeirodev?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-00E5FF?style=for-the-badge&logo=github&logoColor=0D1117" />
-  </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/thalysonribeirodev?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-00E5FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
+<a href="https://github.com/thalysonribeirodev/SiteCabeleireiro">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=thalysonribeirodev&repo=SiteCabeleireiro&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF&bg_color=0D1117" />
 </a>
 
-</div>
+<a href="https://github.com/thalysonribeirodev/xuxubeleza">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=thalysonribeirodev&repo=xuxubeleza&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF&bg_color=0D1117" />
+</a>
 
----
+</p>
 
 # 🎯 Current Goals
 
