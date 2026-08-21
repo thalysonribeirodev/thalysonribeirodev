@@ -207,10 +207,6 @@ Meus repositórios são onde transformo o que estou aprendendo em **projetos pr�
 <img src="https://github-stats-extended-frontend-xc84.vercel.app/api/pin/?username=thalysonribeirodev&repo=SiteCabeleireiro&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF&bg_color=0D1117" />
 </a>
 
-<a href="https://github.com/thalysonribeirodev/xuxubeleza">
-<img src="https://github-stats-extended-frontend-xc84.vercel.app/api/pin/?username=thalysonribeirodev&repo=xuxubeleza&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF&bg_color=0D1117" />
-</a>
-
 </p>
 
 <br>
