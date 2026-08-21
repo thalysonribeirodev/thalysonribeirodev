@@ -204,11 +204,11 @@ Meus repositórios são onde transformo o que estou aprendendo em **projetos pr�
 <div align="center">
 
 <a href="https://github.com/thalysonribeirodev/SiteCabaleireiro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=thalysonribeirodev&repo=SEU_REPOSITORIO_1&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF&bg_color=0D1117" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=thalysonribeirodev&repo=SiteCabeleireiro_1&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF&bg_color=0D1117" />
 </a>
 
 <a href="https://github.com/thalysonribeirodev/xuxubeleza">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=thalysonribeirodev&repo=SEU_REPOSITORIO_2&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF&bg_color=0D1117" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=thalysonribeirodev&repo=xuxubeleza_2&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF&bg_color=0D1117" />
 </a>
 
 </div>
