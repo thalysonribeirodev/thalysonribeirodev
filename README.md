@@ -211,9 +211,13 @@ Meus repositórios são onde transformo o que estou aprendendo em **projetos pr�
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=thalysonribeirodev&repo=xuxubeleza&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF&bg_color=0D1117" />
 </a>
 
-<div align="center">
+</p>
+
+<p align="center">
 
 <a href="https://github.com/thalysonribeirodev?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-00E5FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
+</a>
 
 </p>
 
@@ -367,15 +371,11 @@ J.A.R.V.I.S STATUS: ONLINE
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
-<!-- Adicione seu LinkedIn quando tiver o link -->
-
 <!--
 <a href="http://www.linkedin.com/in/thalysonribeiro">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
 </a>
 -->
-
-<!-- Adicione seu Instagram quando quiser -->
 
 <!--
 <a href="https://www.instagram.com/dre.bs_">
