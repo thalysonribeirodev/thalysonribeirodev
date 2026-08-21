@@ -369,13 +369,13 @@ J.A.R.V.I.S STATUS: ONLINE
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
-<!--
+<--
 <a href="http://www.linkedin.com/in/thalysonribeiro">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
 </a>
 -->
 
-<!--
+<--
 <a href="https://www.instagram.com/dre.bs_">
 <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00E5FF"/>
 </a>
