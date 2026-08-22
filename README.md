@@ -277,46 +277,6 @@ Future
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalysonribeirodev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalysonribeirodev&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=00E5FF&text_color=C9D1D9&bg_color=0D1117"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=thalysonribeirodev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF"/>
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thalysonribeirodev&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=thalysonribeirodev&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
-
-</div>
-
----
-
 # 🐍 Contribution Protocol
 
 <div align="center">
