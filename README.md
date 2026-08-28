@@ -171,16 +171,7 @@ Atualmente, venho complementando minha formação através de cursos da **Funda�
 * **Excel na Prática**
 
 > `Certification database: Fundação Bradesco`
-
-### 🔜 Próximo módulo
-
-```text
-[>] Expandir certificações
-[>] Adicionar certificações FIAP
-[>] Continuar estudos de desenvolvimento
-[>] Aplicar conhecimento em projetos
-```
-
+> 
 ---
 
 # 🚀 Projects
